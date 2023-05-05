@@ -1,4 +1,4 @@
-module github.com/upbound/upjet-provider-template
+module github.com/freelaunch/provider-mongodb
 
 go 1.19
 
